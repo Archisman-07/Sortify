@@ -8,7 +8,7 @@ It aims to help users understand and visualize the process of sorting data, maki
 1. Interactive Visualization - Users can observe how data elements are rearranged and sorted step-by-step through animation-swaps and use of different colours.
 <br/>
 2. Multiple Sorting Algorithms: The web application supports a variety of popular sorting algorithms, such as : <br/>
-   [BubbleSort](https://www.geeksforgeeks.org/bubble-sort/) <br/>
+   [BubbleSort](https://www.geeksforgeeks.org/bubble-sort/) - Bubble Sort Technique <br/>
    [SelectionSort](https://www.geeksforgeeks.org/selection-sort/) <br/>
    [InsertionSort](https://www.geeksforgeeks.org/insertion-sort/) <br/>
    [MergeSort](https://www.geeksforgeeks.org/merge-sort/) <br/>
