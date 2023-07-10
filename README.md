@@ -5,14 +5,14 @@ Sortify is a web application that provides a visual representation of various so
 It aims to help users understand and visualize the process of sorting data, making it an educational tool for learning and exploring different sorting techniques.
 <br/>
 # Features :
-1. Interactive Visualization - Users can observe how data elements are rearranged and sorted step-by-step through animation-swaps and use of different colours.<br/>
+1. Interactive Visualization - Users can observe how data elements are rearranged and sorted step-by-step through animation-swaps and use of different colours.
 <br/>
 2. Multiple Sorting Algorithms: The web application supports a variety of popular sorting algorithms, such as : <br/>
-   *[Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/) <br/>
-   *[Selection Sort](https://www.geeksforgeeks.org/selection-sort/) <br/>
-   *[Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/) <br/>
-   *[Merge Sort](https://www.geeksforgeeks.org/merge-sort/) <br/>
-   *[Quick Sort](https://www.geeksforgeeks.org/quick-sort/) <br/>
+   [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/) <br/>
+   [Selection Sort](https://www.geeksforgeeks.org/selection-sort/) <br/>
+   [Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/) <br/>
+   [Merge Sort](https://www.geeksforgeeks.org/merge-sort/) <br/>
+   [Quick Sort](https://www.geeksforgeeks.org/quick-sort/) <br/>
 <br/>
 3. Adjustable Speed and Data Size: Sortify provides adjustable speed controls to control the animation speed of the sorting process.<br/>
 Users can slow down or speed up the visualization according to their preference. <br/>
